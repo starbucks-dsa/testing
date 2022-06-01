@@ -9,4 +9,5 @@ test_branch = "This is a tester from dev branch"
 
 # MAGIC %sql
 # MAGIC 
-# MAGIC select * from dsa_yanyan.temp_table;
+# MAGIC create table temp_v as
+# MAGIC select * from dsa_yanyan.temp_table_dev;
