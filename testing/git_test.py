@@ -8,9 +8,3 @@ print("This is a tester.")
 # COMMAND ----------
 
 print(git_test2)
-
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC 
-# MAGIC making change
